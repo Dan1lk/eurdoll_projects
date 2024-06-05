@@ -1,2 +1,2 @@
-# eurusd_projects
+# eurusd_project
 Получаем курс доллара и евро за месяц
